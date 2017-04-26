@@ -1,0 +1,8 @@
+Football boots|110|5
+
+Basketball boots|99|3
+Skis|7|10
+
+Balls|1|57
+Tennis|14|6
+Ping pong|2|19
